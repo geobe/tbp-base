@@ -1,0 +1,6 @@
+rootProject.name = 'tbp'
+include 'associations'
+include 'core'
+include 'state-machine'
+include 'vaadin-builder'
+
