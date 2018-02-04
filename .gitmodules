@@ -1,0 +1,12 @@
+[submodule "associations"]
+	path = associations
+	url = https://github.com/geobe/associations
+[submodule "core"]
+	path = core
+	url = https://github.com/geobe/tbp-core
+[submodule "state-machine"]
+	path = state-machine
+	url = https://github.com/geobe/state-machine
+[submodule "vaadin-builder"]
+	path = vaadin-builder
+	url = https://github.com/geobe/vaadin-builder
