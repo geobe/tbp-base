@@ -23,5 +23,5 @@ At start, the core subproject holds all project-specific code:
 The easiest way is cloning from the command line with 
 * `git clone --recurse-submodules https://github.com/geobe/tbp-base`
 ## Running the project
-* Open a terminal window in the base directory and run `gradlew bootRun`
-* Then open [localhost:8080/ui/main](http://localhost:8080/ui/main) in a browser
+* Open a terminal window in the base directory `tbp-base` and run `gradlew bootRun` there.
+* Then open [localhost:8080/ui/main](http://localhost:8080/ui/main) in a browser.
