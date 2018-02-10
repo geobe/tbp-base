@@ -39,3 +39,5 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 .gradle/
 .idea/
+/.project
+/tbp-base.iml
