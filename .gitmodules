@@ -1,9 +1,15 @@
 [submodule "associations"]
 	path = associations
 	url = https://github.com/geobe/associations
+[submodule "common"]
+	path = common
+	url = https://github.com/geobe/tbp-common
 [submodule "core"]
 	path = core
 	url = https://github.com/geobe/tbp-core
+[submodule "ui"]
+	path = ui
+	url = https://github.com/geobe/tbp-ui
 [submodule "state-machine"]
 	path = state-machine
 	url = https://github.com/geobe/state-machine
