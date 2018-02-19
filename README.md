@@ -25,3 +25,9 @@ The easiest way is cloning from the command line with
 ## Running the project
 * Open a terminal window in the base directory `tbp-base` and run `gradlew bootRun` there.
 * Then open [localhost:8080/ui/main](http://localhost:8080/ui/main) in a browser.
+## Adding more submodules
+On the command line in the base project tbp-base, 
+run git command for every additional subproject
+* `git submodules add https://github.com/PATH-TO-SUBMODULE [module directory name]`
+
+`module directory name` is optional, default is to use git repository name

@@ -10,3 +10,9 @@
 [submodule "vaadin-builder"]
 	path = vaadin-builder
 	url = https://github.com/geobe/vaadin-builder
+[submodule "common"]
+	path = common
+	url = https://github.com/geobe/tbp-common
+[submodule "ui"]
+	path = ui
+	url = https://github.com/geobe/tbp-ui
